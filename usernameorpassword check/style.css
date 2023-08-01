@@ -1,0 +1,31 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.form{
+    border: 2px solid black;
+    height: fit-content;
+    text-align: center;
+    margin: 10px;
+    padding: 12px;
+    /* display: flex;
+    justify-content: center;
+    justify-items: center; */
+}
+input{
+    height: 30px;
+    width: auto;
+    font-size: x-large;
+}
+button{
+    font-size: x-large;
+    margin: 10px;
+    padding: 2px;
+}
